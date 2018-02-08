@@ -43,7 +43,7 @@ print(3*2)
 `@sct`
 ```{python}
 if test == 2 :
-    Eq.fail("perdu")
+    Ex().fail("perdu")
 success_msg('Great job!')
 ```
 
