@@ -42,8 +42,7 @@ print(3*2)
 ```
 `@sct`
 ```{python}
-if test == 2 :
-    Ex().fail("perdu")
+test_student_typed("abc")
 success_msg('Great job!')
 ```
 
