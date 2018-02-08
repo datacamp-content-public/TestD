@@ -40,6 +40,9 @@ print(3+2)
 ```{python}
 print(3*2)
 ```
-
+`@sct`
+```{python}
+return test == 2
+```
 
 
