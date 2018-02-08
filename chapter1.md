@@ -42,7 +42,7 @@ print(3*2)
 ```
 `@sct`
 ```{python}
-return test == 2
+success_msg('Great job!')
 ```
 
 
